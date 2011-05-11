@@ -1,0 +1,15 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  invdate: 2011-05-11
+  amount: 9.99
+  tax: 9.99
+  total: 9.99
+  note: MyString
+
+two:
+  invdate: 2011-05-11
+  amount: 9.99
+  tax: 9.99
+  total: 9.99
+  note: MyString
